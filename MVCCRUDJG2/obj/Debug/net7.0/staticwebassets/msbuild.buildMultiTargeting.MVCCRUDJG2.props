@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MVCCRUDJG2.props" />
+</Project>

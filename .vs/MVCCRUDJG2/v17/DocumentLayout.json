@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\MVCCRUDJG2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{492CC20C-6D9E-4D9C-A701-D7DADFB7C6D6}|MVCCRUDJG2\\MVCCRUDJG2.csproj|c:\\users\\user\\source\\repos\\mvccrudjg2\\mvccrudjg2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{492CC20C-6D9E-4D9C-A701-D7DADFB7C6D6}|MVCCRUDJG2\\MVCCRUDJG2.csproj|solutionrelative:mvccrudjg2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{492CC20C-6D9E-4D9C-A701-D7DADFB7C6D6}|MVCCRUDJG2\\MVCCRUDJG2.csproj|c:\\users\\user\\source\\repos\\mvccrudjg2\\mvccrudjg2\\views\\clientes\\listadoclientes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{492CC20C-6D9E-4D9C-A701-D7DADFB7C6D6}|MVCCRUDJG2\\MVCCRUDJG2.csproj|solutionrelative:mvccrudjg2\\views\\clientes\\listadoclientes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{492CC20C-6D9E-4D9C-A701-D7DADFB7C6D6}|MVCCRUDJG2\\MVCCRUDJG2.csproj|c:\\users\\user\\source\\repos\\mvccrudjg2\\mvccrudjg2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{492CC20C-6D9E-4D9C-A701-D7DADFB7C6D6}|MVCCRUDJG2\\MVCCRUDJG2.csproj|solutionrelative:mvccrudjg2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{492CC20C-6D9E-4D9C-A701-D7DADFB7C6D6}|MVCCRUDJG2\\MVCCRUDJG2.csproj|c:\\users\\user\\source\\repos\\mvccrudjg2\\mvccrudjg2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{492CC20C-6D9E-4D9C-A701-D7DADFB7C6D6}|MVCCRUDJG2\\MVCCRUDJG2.csproj|solutionrelative:mvccrudjg2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{492CC20C-6D9E-4D9C-A701-D7DADFB7C6D6}|MVCCRUDJG2\\MVCCRUDJG2.csproj|c:\\users\\user\\source\\repos\\mvccrudjg2\\mvccrudjg2\\views\\clientes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{492CC20C-6D9E-4D9C-A701-D7DADFB7C6D6}|MVCCRUDJG2\\MVCCRUDJG2.csproj|solutionrelative:mvccrudjg2\\views\\clientes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{492CC20C-6D9E-4D9C-A701-D7DADFB7C6D6}|MVCCRUDJG2\\MVCCRUDJG2.csproj|c:\\users\\user\\source\\repos\\mvccrudjg2\\mvccrudjg2\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{492CC20C-6D9E-4D9C-A701-D7DADFB7C6D6}|MVCCRUDJG2\\MVCCRUDJG2.csproj|solutionrelative:mvccrudjg2\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{492CC20C-6D9E-4D9C-A701-D7DADFB7C6D6}|MVCCRUDJG2\\MVCCRUDJG2.csproj|c:\\users\\user\\source\\repos\\mvccrudjg2\\mvccrudjg2\\views\\clientes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{492CC20C-6D9E-4D9C-A701-D7DADFB7C6D6}|MVCCRUDJG2\\MVCCRUDJG2.csproj|solutionrelative:mvccrudjg2\\views\\clientes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{492CC20C-6D9E-4D9C-A701-D7DADFB7C6D6}|MVCCRUDJG2\\MVCCRUDJG2.csproj|c:\\users\\user\\source\\repos\\mvccrudjg2\\mvccrudjg2\\views\\clientes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{492CC20C-6D9E-4D9C-A701-D7DADFB7C6D6}|MVCCRUDJG2\\MVCCRUDJG2.csproj|solutionrelative:mvccrudjg2\\views\\clientes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{492CC20C-6D9E-4D9C-A701-D7DADFB7C6D6}|MVCCRUDJG2\\MVCCRUDJG2.csproj|c:\\users\\user\\source\\repos\\mvccrudjg2\\mvccrudjg2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{492CC20C-6D9E-4D9C-A701-D7DADFB7C6D6}|MVCCRUDJG2\\MVCCRUDJG2.csproj|solutionrelative:mvccrudjg2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 108,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 382,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MVCCRUDJG2\\MVCCRUDJG2\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCCRUDJG2\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MVCCRUDJG2\\MVCCRUDJG2\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MVCCRUDJG2\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-30T17:50:06.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClientesController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MVCCRUDJG2\\MVCCRUDJG2\\Controllers\\ClientesController.cs",
+              "RelativeDocumentMoniker": "MVCCRUDJG2\\Controllers\\ClientesController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MVCCRUDJG2\\MVCCRUDJG2\\Controllers\\ClientesController.cs",
+              "RelativeToolTip": "MVCCRUDJG2\\Controllers\\ClientesController.cs",
+              "ViewState": "AQIAANcAAAAAAAAAAAAxwO0AAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T17:36:40.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ListadoClientes.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MVCCRUDJG2\\MVCCRUDJG2\\Views\\Clientes\\ListadoClientes.cshtml",
+              "RelativeDocumentMoniker": "MVCCRUDJG2\\Views\\Clientes\\ListadoClientes.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MVCCRUDJG2\\MVCCRUDJG2\\Views\\Clientes\\ListadoClientes.cshtml",
+              "RelativeToolTip": "MVCCRUDJG2\\Views\\Clientes\\ListadoClientes.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-30T03:48:02.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MVCCRUDJG2\\MVCCRUDJG2\\Views\\Clientes\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MVCCRUDJG2\\Views\\Clientes\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MVCCRUDJG2\\MVCCRUDJG2\\Views\\Clientes\\Edit.cshtml",
+              "RelativeToolTip": "MVCCRUDJG2\\Views\\Clientes\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-30T16:44:25.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MVCCRUDJG2\\MVCCRUDJG2\\Views\\Clientes\\Delete.cshtml",
+              "RelativeDocumentMoniker": "MVCCRUDJG2\\Views\\Clientes\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MVCCRUDJG2\\MVCCRUDJG2\\Views\\Clientes\\Delete.cshtml",
+              "RelativeToolTip": "MVCCRUDJG2\\Views\\Clientes\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-30T21:58:18.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MVCCRUDJG2\\MVCCRUDJG2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MVCCRUDJG2\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MVCCRUDJG2\\MVCCRUDJG2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MVCCRUDJG2\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T17:50:23.496Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 310,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MVCCRUDJG2\\MVCCRUDJG2\\Program.cs",
+              "RelativeDocumentMoniker": "MVCCRUDJG2\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MVCCRUDJG2\\MVCCRUDJG2\\Program.cs",
+              "RelativeToolTip": "MVCCRUDJG2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T21:29:00.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MVCCRUDJG2\\MVCCRUDJG2\\Views\\Clientes\\Create.cshtml",
+              "RelativeDocumentMoniker": "MVCCRUDJG2\\Views\\Clientes\\Create.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MVCCRUDJG2\\MVCCRUDJG2\\Views\\Clientes\\Create.cshtml",
+              "RelativeToolTip": "MVCCRUDJG2\\Views\\Clientes\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-30T21:39:02.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MVCCRUDJG2\\MVCCRUDJG2\\appsettings.json",
+              "RelativeDocumentMoniker": "MVCCRUDJG2\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MVCCRUDJG2\\MVCCRUDJG2\\appsettings.json",
+              "RelativeToolTip": "MVCCRUDJG2\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-30T21:39:10.251Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
